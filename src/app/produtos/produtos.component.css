@@ -1,0 +1,7 @@
+.disabledbtn{
+    cursor:not-allowed;
+}
+
+.enabledbtn{
+    cursor: pointer;
+}

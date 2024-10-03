@@ -1,0 +1,18 @@
+#banner {
+    height: 25rem;
+    background-image: url('../../assets/bannerimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-banner div{
+    position: absolute;
+    margin-left: 1%;
+    margin-top: 1%;
+    color: white;
+}
+
+
+
+
+
